@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HamzaDavinci&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzqdev&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 
 ---
 
