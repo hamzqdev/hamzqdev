@@ -10,11 +10,11 @@ I've been interested in programming long before starting my Software Developer j
 - ⚙️ Experimenting with new technologies and expanding my skills.
 - 🚀 Working on personal projects and learning something new every day.
 
+<br>
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=HamzqDev&label=Visitors&color=1125d9&style=flat" />
 </p>
-
-<br>
 
 > I enjoy reverse engineering software and understanding how things are built, whether it's a game, website, or application. &nbsp;<img src="https://cdn.discordapp.com/emojis/782495594014048266.webp?size=32" width="24" />
 
