@@ -54,7 +54,7 @@ I've been interested in programming long before starting my Software Developer j
 
 > *Some of the things I've been working on.*
 
-- 🌐 **Hamzq.dev** - My personal portfolio and playground.
+- 🌐 **Hamzq.dev** - My personal portfolio.
 - 🤖 **Discord Bots** - A custom moderation bot for **[hypelands](https://hypelands.net)**.
 - ⛏️ **Minecraft Projects** - Plugins, utilities, and custom server development.
 
